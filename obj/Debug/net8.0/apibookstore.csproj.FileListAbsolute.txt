@@ -1,0 +1,72 @@
+C:\Users\ar4946\apps_net\apibookstore\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ar4946\apps_net\apibookstore\bin\Debug\net8.0\appsettings.json
+C:\Users\ar4946\apps_net\apibookstore\bin\Debug\net8.0\apibookstore.exe
+C:\Users\ar4946\apps_net\apibookstore\bin\Debug\net8.0\apibookstore.deps.json
+C:\Users\ar4946\apps_net\apibookstore\bin\Debug\net8.0\apibookstore.runtimeconfig.json
+C:\Users\ar4946\apps_net\apibookstore\bin\Debug\net8.0\apibookstore.dll
+C:\Users\ar4946\apps_net\apibookstore\bin\Debug\net8.0\apibookstore.pdb
+C:\Users\ar4946\apps_net\apibookstore\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\ar4946\apps_net\apibookstore\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\ar4946\apps_net\apibookstore\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ar4946\apps_net\apibookstore\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ar4946\apps_net\apibookstore\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ar4946\apps_net\apibookstore\obj\Debug\net8.0\apibookstore.csproj.AssemblyReference.cache
+C:\Users\ar4946\apps_net\apibookstore\obj\Debug\net8.0\apibookstore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ar4946\apps_net\apibookstore\obj\Debug\net8.0\apibookstore.AssemblyInfoInputs.cache
+C:\Users\ar4946\apps_net\apibookstore\obj\Debug\net8.0\apibookstore.AssemblyInfo.cs
+C:\Users\ar4946\apps_net\apibookstore\obj\Debug\net8.0\apibookstore.csproj.CoreCompileInputs.cache
+C:\Users\ar4946\apps_net\apibookstore\obj\Debug\net8.0\apibookstore.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ar4946\apps_net\apibookstore\obj\Debug\net8.0\apibookstore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ar4946\apps_net\apibookstore\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ar4946\apps_net\apibookstore\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ar4946\apps_net\apibookstore\obj\Debug\net8.0\staticwebassets\msbuild.apibookstore.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ar4946\apps_net\apibookstore\obj\Debug\net8.0\staticwebassets\msbuild.build.apibookstore.props
+C:\Users\ar4946\apps_net\apibookstore\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.apibookstore.props
+C:\Users\ar4946\apps_net\apibookstore\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.apibookstore.props
+C:\Users\ar4946\apps_net\apibookstore\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\ar4946\apps_net\apibookstore\obj\Debug\net8.0\scopedcss\bundle\apibookstore.styles.css
+C:\Users\ar4946\apps_net\apibookstore\obj\Debug\net8.0\apibooks.C822D9E2.Up2Date
+C:\Users\ar4946\apps_net\apibookstore\obj\Debug\net8.0\apibookstore.dll
+C:\Users\ar4946\apps_net\apibookstore\obj\Debug\net8.0\refint\apibookstore.dll
+C:\Users\ar4946\apps_net\apibookstore\obj\Debug\net8.0\apibookstore.pdb
+C:\Users\ar4946\apps_net\apibookstore\obj\Debug\net8.0\apibookstore.genruntimeconfig.cache
+C:\Users\ar4946\apps_net\apibookstore\obj\Debug\net8.0\ref\apibookstore.dll
+C:\Users\ar4946\apps_net\apibookstore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ar4946\apps_net\apibookstore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ar4946\apps_net\apibookstore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Arche\OneDrive\Área de Trabalho\apibookstore\apibookstore\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Arche\OneDrive\Área de Trabalho\apibookstore\apibookstore\bin\Debug\net8.0\appsettings.json
+C:\Users\Arche\OneDrive\Área de Trabalho\apibookstore\apibookstore\bin\Debug\net8.0\apibookstore.exe
+C:\Users\Arche\OneDrive\Área de Trabalho\apibookstore\apibookstore\bin\Debug\net8.0\apibookstore.deps.json
+C:\Users\Arche\OneDrive\Área de Trabalho\apibookstore\apibookstore\bin\Debug\net8.0\apibookstore.runtimeconfig.json
+C:\Users\Arche\OneDrive\Área de Trabalho\apibookstore\apibookstore\bin\Debug\net8.0\apibookstore.dll
+C:\Users\Arche\OneDrive\Área de Trabalho\apibookstore\apibookstore\bin\Debug\net8.0\apibookstore.pdb
+C:\Users\Arche\OneDrive\Área de Trabalho\apibookstore\apibookstore\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Arche\OneDrive\Área de Trabalho\apibookstore\apibookstore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Arche\OneDrive\Área de Trabalho\apibookstore\apibookstore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Arche\OneDrive\Área de Trabalho\apibookstore\apibookstore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Arche\OneDrive\Área de Trabalho\apibookstore\apibookstore\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Arche\OneDrive\Área de Trabalho\apibookstore\apibookstore\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Arche\OneDrive\Área de Trabalho\apibookstore\apibookstore\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Arche\OneDrive\Área de Trabalho\apibookstore\apibookstore\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Arche\OneDrive\Área de Trabalho\apibookstore\apibookstore\obj\Debug\net8.0\apibookstore.csproj.AssemblyReference.cache
+C:\Users\Arche\OneDrive\Área de Trabalho\apibookstore\apibookstore\obj\Debug\net8.0\apibookstore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arche\OneDrive\Área de Trabalho\apibookstore\apibookstore\obj\Debug\net8.0\apibookstore.AssemblyInfoInputs.cache
+C:\Users\Arche\OneDrive\Área de Trabalho\apibookstore\apibookstore\obj\Debug\net8.0\apibookstore.AssemblyInfo.cs
+C:\Users\Arche\OneDrive\Área de Trabalho\apibookstore\apibookstore\obj\Debug\net8.0\apibookstore.csproj.CoreCompileInputs.cache
+C:\Users\Arche\OneDrive\Área de Trabalho\apibookstore\apibookstore\obj\Debug\net8.0\apibookstore.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Arche\OneDrive\Área de Trabalho\apibookstore\apibookstore\obj\Debug\net8.0\apibookstore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Arche\OneDrive\Área de Trabalho\apibookstore\apibookstore\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Arche\OneDrive\Área de Trabalho\apibookstore\apibookstore\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Arche\OneDrive\Área de Trabalho\apibookstore\apibookstore\obj\Debug\net8.0\staticwebassets\msbuild.apibookstore.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Arche\OneDrive\Área de Trabalho\apibookstore\apibookstore\obj\Debug\net8.0\staticwebassets\msbuild.build.apibookstore.props
+C:\Users\Arche\OneDrive\Área de Trabalho\apibookstore\apibookstore\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.apibookstore.props
+C:\Users\Arche\OneDrive\Área de Trabalho\apibookstore\apibookstore\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.apibookstore.props
+C:\Users\Arche\OneDrive\Área de Trabalho\apibookstore\apibookstore\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Arche\OneDrive\Área de Trabalho\apibookstore\apibookstore\obj\Debug\net8.0\scopedcss\bundle\apibookstore.styles.css
+C:\Users\Arche\OneDrive\Área de Trabalho\apibookstore\apibookstore\obj\Debug\net8.0\apibooks.C822D9E2.Up2Date
+C:\Users\Arche\OneDrive\Área de Trabalho\apibookstore\apibookstore\obj\Debug\net8.0\apibookstore.dll
+C:\Users\Arche\OneDrive\Área de Trabalho\apibookstore\apibookstore\obj\Debug\net8.0\refint\apibookstore.dll
+C:\Users\Arche\OneDrive\Área de Trabalho\apibookstore\apibookstore\obj\Debug\net8.0\apibookstore.pdb
+C:\Users\Arche\OneDrive\Área de Trabalho\apibookstore\apibookstore\obj\Debug\net8.0\apibookstore.genruntimeconfig.cache
+C:\Users\Arche\OneDrive\Área de Trabalho\apibookstore\apibookstore\obj\Debug\net8.0\ref\apibookstore.dll
